@@ -1,0 +1,997 @@
+$Page.constant({id:'House',
+values:[]}).constant({id:'Subject',
+
+values:[{"value":"00000000000000000000000000000110",
+"label":"H1 FRENCH LANGUAGE"
+
+{"value":"b25c0cd4ac5843f085c96a1eaae1eecf",
+"label":"H2 ART"
+
+{"value":"e0000000000000000000000000000002",
+"label":"H2 MALAY LANGUAGE \u0026 LITERATURE"
+
+{"value":"9c92e11975b84b5fb00456f3375b26b4",
+"label":"NUS MODERN PHYSICS"
+
+{"value":"00000000000000000000000000000013",
+"label":"H1 MALAY LANGUAGE"
+
+{"value":"00000000000000000000000000000029",
+"label":"H1 URDU"
+
+{"value":"00000000000000000000000000000023",
+"label":"Malay B"
+
+{"value":"54d71582d8a738abe9127529db3bd10a",
+"label":"NUS-MOE HUMANITIES \u0026 SOC SCI RESEARCH (HIST)"
+
+{"value":"00000000000000000000000000000025",
+"label":"H1 BENGALI"
+
+{"value":"ad3ca333b8f91be00f8fa2b575fc05d0",
+"label":"H3 Chinese Language and Literature"
+
+{"value":"7a14d46cb89d482b80470946f5606267",
+"label":"H1 PHYSICS"
+
+{"value":"4605f8da06364a589bb27c7a0b3a8833",
+"label":"NTU SEMICONDUCTOR PHYSICS \u0026 DEVICES"
+
+{"value":"77239825097be3c810d8cacb8c165238",
+"label":"H3 ECONOMICS"
+
+{"value":"f4a19ca3cb154f8d8533265e2c657c11",
+"label":"SMU GAME THEORY"
+
+{"value":"08608abc1b8fd4b03da7a0c3179b8ebd",
+"label":"Physical Education"
+
+{"value":"28ae3fbc892f447dbc8949a2da038248",
+"label":"H2 LITERATURE IN ENGLISH"
+
+{"value":"abd2b4e250d04259a0bbec3af8a05bd6",
+"label":"H3 MATHEMATICS"
+
+{"value":"8315104376154e359e60f5de19446e00",
+"label":"H3 LITERATURE IN ENGLISH"
+
+{"value":"efc812a716bc48b6884cb1a8d8c99a27",
+"label":"H1 PROJECT WORK"
+
+{"value":"c1ccc048fe3685404e420562a2ae2c69",
+"label":"H2 FURTHER MATHEMATICS"
+
+{"value":"00000000000000000000000000000112",
+"label":"H1 JAPANESE LANGUAGE"
+
+{"value":"7bd8e1b0023353891d091b0eab2398b7",
+"label":"H2 COMPUTING"
+
+{"value":"41bce9a2bdb3d9045fb0591e168006aa",
+"label":"NUS-MOE HUMANITIES \u0026 SOC SCI RESEARCH (ECONS)"
+
+{"value":"5cd2ddafccda4718ae37d4a1d1923ffe",
+"label":"H2 ECONOMICS"
+
+{"value":"83dd3ceb049443d48705c4032da76ced",
+"label":"H1 BIOLOGY"
+
+{"value":"045cf0df04ad446e882d2f1f7b57e4fa",
+"label":"H2 PHYSICS"
+
+{"value":"1049db578e1945feaf209f7cdf08ecb2",
+"label":"H1 GENERAL PAPER"
+
+{"value":"69d4621670d64411ac8110c211dbaa97",
+"label":"H1 MATHEMATICS"
+
+{"value":"00000000000000000000000000000027",
+"label":"H1 HINDI"
+
+{"value":"aa117a15b82d9c1e5687f2bf41dca8d3",
+"label":"H2 TRANSLATION (CHINESE)"
+
+{"value":"d5c214df6e7a4ebeb3a69428b5197e4a",
+"label":"H2 HISTORY"
+
+{"value":"ee53558bd7b742b48f908b171df2abe2",
+"label":"H2 GEOGRAPHY"
+
+{"value":"7cca69bc8c214431a4ee2c17c0b23f69",
+"label":"H1 CHEMISTRY"
+
+{"value":"98b04de9c9a84268b7128d369f917a98",
+"label":"H2 CHEMISTRY"
+
+{"value":"ccd4b0b6a8cf3dbdea20279045ae79c3",
+"label":"H3 CHEMISTRY"
+
+{"value":"00000000000000000000000000000111",
+"label":"H1 GERMAN LANGUAGE"
+
+{"value":"bf105925faa44857a30a97c94d74c41b",
+"label":"H3 MUSIC"
+
+{"value":"31a6a11cb48c43e5a6416a34c055b70e",
+"label":"H1 GEOGRAPHY"
+
+{"value":"00000000000000000000000000000012",
+"label":"H1 CHINESE LANGUAGE"
+
+{"value":"00000000000000000000000000000028",
+"label":"H1 PANJABI"
+
+{"value":"ec7cfb22e6289cd6448dd891461a33b9",
+"label":"H3 PHYSICS"
+
+{"value":"00000000000000000000000000000022",
+"label":"Chinese B"
+
+{"value":"cf5751792f20bef9867804d4af23b18c",
+"label":"NUS-MOE HUMANITIES \u0026 SOC SCI RESEARCH (CL_LIT)"
+
+{"value":"be26f42acfa04e239358212cb9db1554",
+"label":"H2 JAPANESE LANGUAGE"
+
+{"value":"e0000000000000000000000000000001",
+"label":"H2 CHINESE LANGUAGE \u0026 LITERATURE"
+
+{"value":"c0146bef28b14a26ae9691cb6d2c291a",
+"label":"NUS GEOPOLITICS: WAR \u0026 PEACE"
+
+{"value":"00000000000000000000000000000026",
+"label":"H1 GUJARATI"
+
+{"value":"e0be0e97b69c4247a00853937d12cceb",
+"label":"H3 GEOGRAPHY"
+
+{"value":"c0f0d8763bd14dcd904e29821f63b2a0",
+"label":"H3 PHARMACEUTICAL CHEMISTRY"
+
+{"value":"b8d69016194398bcc8cb92a1cf067e8f",
+"label":"H1 SPANISH LANGUAGE"
+
+{"value":"58955114e8c969865811c4cc1014cb07",
+"label":"H2 SPANISH LANGUAGE"
+
+{"value":"f061b804408e4a94aab98a64ba37fcb3",
+"label":"H3 HISTORY"
+
+{"value":"0e4e7d88443a4250b986703513fc9a4a",
+"label":"H1 HISTORY"
+
+{"value":"f09bbdc2a9e245099fbe42a15ba8d5d4",
+"label":"H3 ART"
+
+{"value":"d601a3d4f86e47e38db30a6e5428cd20",
+"label":"H1 ECONOMICS"
+
+{"value":"38bcecd80cec60e8ea2bcf4c833b1492",
+"label":"H2 FRENCH LANGUAGE"
+
+{"value":"1fbff7849a65e53f4c6aca580c596f16",
+"label":"NUS-MOE HUMANITIES \u0026 SOC SCI RESEARCH (LIT)"
+
+{"value":"a1f80f61f3144af8b68433a0def7b08b",
+"label":"H1 LITERATURE IN ENGLISH"
+
+{"value":"dedde0397266419f939e5b29efb60d24",
+"label":"NTU Molecular Biology"
+
+{"value":"00000000000000000000000000000014",
+"label":"H1 TAMIL LANGUAGE"
+
+{"value":"00000000000000000000000000000024",
+"label":"Tamil B"
+
+{"value":"77cf8f6dcf6e405f950712ed4103f62d",
+"label":"H2 BIOLOGY"
+
+{"value":"a929a5f6c9356dc586113528294f7138",
+"label":"H3 BIOLOGY"
+
+{"value":"3f0fd54e199d8f31698447864231a395",
+"label":"NUS-MOE HUMANITIES \u0026 SOC SCI RESEARCH (GEOG)"
+
+{"value":"c85e2350b6284644877b17bcb2fb409a",
+"label":"H2 MATHEMATICS"
+
+{"value":"f4027c4a6447497287afa081ee0cb428",
+"label":"H2 GERMAN LANGUAGE"}]}).constant({id:'SubjectCombination',
+
+{"value":"046095b97752a01bb77ce5ebf3ef3bd4",
+"label":"Badminton"}]}).constant({id:'Timeslot',
+
+values:[{"value":"7252b3ec9eddf428b9864c569066d60d",
+"label":"Alternative Timeslot"
+
+{"value":"e7d7b6cfbec693f8c0c6c9a617df82ff",
+"label":"Default Timeslot"}]}).constant({id:'Venue',
+values:[{"value":"e4766d322f4da97133ebd1b73ec37e79",
+"label":"Squash Court 2 (SQ 02) [Inactive] (2)  @ Sports,
+ L3"
+
+{"value":"debcba6076d8be65ecfa8fe2935ce33e",
+"label":"(J2 only) Hall Seat B11 (HB11) [Inactive] (1)  @ Hall"
+
+{"value":"2c5547b79e53e4f2346b83458eb54683",
+"label":"(J1 only) Rm 4-57 (00457-J1) [Inactive] (25)  @ CR"
+
+{"value":"52628a80abb28640fba43a8e8109016a",
+"label":"(J2 only) Hall Seat A18 (HA18) [Inactive] (1)  @ Hall"
+
+{"value":"9f37523d828a7bb2786b3759e854d321",
+"label":"(J2 only) Rm 3-47 (Slot 5) (00347(5)) [Inactive] (1)  @ CR"
+
+{"value":"42c5883b6a49b3afd7cc7bf9d53bc75d",
+"label":"(J2 only) Hall Seat I5 (HI5) [Inactive] (1)  @ Hall"
+
+{"value":"e5520be901a9af5c5fa0ef24bfab18db",
+"label":"(J2 only) Hall Seat L14 (HL14) [Inactive] (1)  @ Hall"
+
+{"value":"2eaa158616adcf6f1413ef5cb050ce5a",
+"label":"(J2 only) Rm 4-30 (00430) [Inactive] (6)  @ CR"
+
+{"value":"a64fe08110cb98d9a4103cc54796201b",
+"label":"(J2 only) Hall Seat G12 (HG12) [Inactive] (1)  @ Hall"
+
+{"value":"4e64565e35883a4fde0957296a4a58d0",
+"label":"(J2 only) Rm 3-29 (Slot 6) (00329(6)) [Inactive] (1)  @ CR"
+
+{"value":"14e218c857c5c03af599fdae94f9d4c1",
+"label":"(J2 only) Hall Seat J9 (HJ9) [Inactive] (1)  @ Hall"
+
+{"value":"4275ad0f145890e47b934abe3552a47f",
+"label":"(J2 only) Hall Seat N11 (HN11) [Inactive] (1)  @ Hall"
+
+{"value":"db564d9061291e3b593f9f848d4b8588",
+"label":"(J2 only) Hall Seat K6 (HK6) [Inactive] (1)  @ Hall"
+
+{"value":"8b0f4c40d1281a7bfa5776abdb814247",
+"label":"(J2 only) Hall Seat G14 (HG14) [Inactive] (1)  @ Hall"
+
+{"value":"907933bc8e0057f261823a94657d9b68",
+"label":"(J2 only) Hall Seat A14 (HA14) [Inactive] (1)  @ Hall"
+
+{"value":"5d82a376d6008eddf8b012f405e6d132",
+"label":"(J2 only) Hall Seat A3 (HA3) [Inactive] (1)  @ Hall"
+
+{"value":"da31aa36d660a52ba6f7af41d1aa49f6",
+"label":"(J2 only) Hall Seat L7 (HL7) [Inactive] (1)  @ Hall"
+
+{"value":"8b2d41f379b7bcc8939464c19c2d1227",
+"label":"(J2 only) Rm 3-37 (Slot 5) (00337(5)) [Inactive] (1)  @ CR"
+
+{"value":"ebf341c72e582aa196d0a06c887325fe",
+"label":"(J1 only) Rm 4-30 (00430-J1) [Inactive] (25)  @ CR"
+
+{"value":"42a2f310e7d94ff264a4e277206c07a3",
+"label":"(J1 only) Rm 4-43 (00443-J1) [Inactive] (25)  @ CR"
+
+{"value":"5e66a1867f95ada308addf3cfce03cbb",
+"label":"(J2 only) Rm 3-39 (Slot 1) (00339(1)) [Inactive] (1)  @ CR"
+
+{"value":"cedb70b088f7d1506be3946d4a3234f4",
+"label":"(J2 only) Hall Seat L1 (HL1) [Inactive] (1)  @ Hall"
+
+{"value":"e80c488b7b790d3e786a398422ecede0",
+"label":"Rm 3-50 (00350) [Inactive] (25)  @ CR,
+ L3"
+
+{"value":"2191f798085124cf182d7f18c11d86d0",
+"label":"(J2 only) Hall Seat F5 (HF5) [Inactive] (1)  @ Hall"
+
+{"value":"da41e88cbc38531bac7f1c170a693c3d",
+"label":"(J2 only) Hall Seat D12 (HD12) [Inactive] (1)  @ Hall"
+
+{"value":"f140897467d34e2f32223ff995ce82f7",
+"label":"Rm 3-38 (00338) [Inactive] (25)  @ CR,
+ L3"
+
+{"value":"ed539cc1eb661151c71b63eb9c64f5c2",
+"label":"(J2 only) Hall Seat M5 (HM5) [Inactive] (1)  @ Hall"
+
+{"value":"3db88c102e9e8ca587c25eda16f4cd6b",
+"label":"(J2 only) Hall Seat F1 (HF1) [Inactive] (1)  @ Hall"
+
+{"value":"3fc64d8dcf5fb551abb5ee95b6fc452f",
+"label":"(J2 only) Hall Seat I10 (HI10) [Inactive] (1)  @ Hall"
+
+{"value":"cedce92ffbbc75153f218ed55560d0cd",
+"label":"Rm 3-28 (00328) [Inactive] (25)  @ CR,
+ L3"
+
+{"value":"de25e26039ca785cc1ca27a05fedbd5e",
+"label":"(J2 only) Hall Seat K2 (HK2) [Inactive] (1)  @ Hall"
+
+{"value":"90578cf9d0cf2c40a2f1d294feeb5137",
+"label":"(J2 only) Hall Seat B13 (HB13) [Inactive] (1)  @ Hall"
+
+{"value":"dfa71b437cbacc43548862211dfc9cfa",
+"label":"(J2 only) Rm 3-50 (Slot 1) (00350(1)) [Inactive] (1)  @ CR"
+
+{"value":"1a85071212fbaa18ef42f9ed5dead80f",
+"label":"(J2 only) Rm 3-29 (Slot 4) (00329(4)) [Inactive] (1)  @ CR"
+
+{"value":"88719ddcfbd3df960a72b8563f5c5e5e",
+"label":"Squash Court 1 (SQ 01) [Inactive] (2)  @ Sports,
+ L3"
+
+{"value":"de91c52aaa861c29e96c522f3e16f58f",
+"label":"(J2 only) Hall Seat L12 (HL12) [Inactive] (1)  @ Hall"
+
+{"value":"9b78b710838e36a8050a52286a331777",
+"label":"(J2 only) Hall Seat G9 (HG9) [Inactive] (1)  @ Hall"
+
+{"value":"68eedfc9c3ddbcbb0803ae68790d503e",
+"label":"(J1 only) Rm 4-61 (00461-J1) [Inactive] (25)  @ CR"
+
+{"value":"fb3fb1d8a1d7933f438bea20aa0b61e6",
+"label":"(J2 only) Rm 3-37 (Slot 4) (00337(4)) [Inactive] (1)  @ CR"
+
+{"value":"74eaf9639e2ceb189ebe88c8d3edaf20",
+"label":"(J2 only) Hall Seat J16 (HJ16) [Inactive] (1)  @ Hall"
+
+{"value":"59abb934c9b7e98300101e54779c36ba",
+"label":"(J2 only) Hall Seat O14 (HO14) [Inactive] (1)  @ Hall"
+
+{"value":"10191e74c72803d1109c7707a989247e",
+"label":"(J2 only) Hall Seat D9 (HD9) [Inactive] (1)  @ Hall"
+
+{"value":"13aa31cc72fba56e1d72a179ce76a5e4",
+"label":"(J2 only) Rm 3-27 (Slot 3) (00327(3)) [Inactive] (1)  @ CR"
+
+{"value":"34e5d2f09d88d404f543cda4785d21fa",
+"label":"(J2 only) Rm 3-37 (Slot 2) (00337(2)) [Inactive] (1)  @ CR"
+
+{"value":"ec7aa2d10cb2df19dfbecceff3287cb7",
+"label":"(J2 only) Hall Seat N17 (HN17) [Inactive] (1)  @ Hall"
+
+{"value":"e1cff0bb26b92d0f2a965d8f5a58a2fc",
+"label":"(J2 only) Hall Seat F7 (HF7) [Inactive] (1)  @ Hall"
+
+{"value":"13f45bee50ac5c7d66cbb61b12f87558",
+"label":"(J2 only) Rm 3-47 (Slot 2) (00347(2)) [Inactive] (1)  @ CR"
+
+{"value":"c6ba797d2c4e059088b06b310c10417d",
+"label":"(J1 only) Rm 4-33 (00433-J1) [Inactive] (25)  @ CR"
+
+{"value":"959aa67ce98205af2ddcd916e7b28baf",
+"label":"(J2 only) Hall Seat G7 (HG7) [Inactive] (1)  @ Hall"
+
+{"value":"559c647f2c623386335cd5d13abfa8e6",
+"label":"(J2 only) Hall Seat A9 (HA9) [Inactive] (1)  @ Hall"
+
+{"value":"afff866f0c66d98ad91432a476fc7272",
+"label":"(J2 only) Rm 3-49 (Slot 5) (00349(5)) [Inactive] (1)  @ CR"
+
+{"value":"d06e7defaae7c18e61c5efad2ab22673",
+"label":"(J2 only) Rm 3-38 (Slot 2) (00338(2)) [Inactive] (1)  @ CR"
+
+{"value":"99cb5222515a03b43a3e1f5b7ca775e9",
+"label":"(J2 only) Hall Seat E15 (HE15) [Inactive] (1)  @ Hall"
+
+{"value":"71389aecee9a355369942dbc78bfa764",
+"label":"(J1 only) Rm 3-39 (00339-J1) [Inactive] (25)  @ CR"
+
+{"value":"d276da1c85019a3872210cedc31fde08",
+"label":"(J1 only) Rm 3-27 (00327-J1) [Inactive] (25)  @ CR"
+
+{"value":"51ab56036eb0f98ce7456d98837312f5",
+"label":"(J2 only) Hall Seat L16 (HL16) [Inactive] (1)  @ Hall"
+
+{"value":"850d96ebc9fcaf18bab86b53ca462f4a",
+"label":"(J2 only) Rm 3-37 (Slot 1) (00337(1)) [Inactive] (1)  @ CR"
+
+{"value":"f11fb187709c8bca61ceb223ccec61b2",
+"label":"(J2 only) Hall Seat J18 (HJ18) [Inactive] (1)  @ Hall"
+
+{"value":"b61e5532120cd5b3bd4c96766071fd75",
+"label":"Rm 3-37 (00337) [Inactive] (25)  @ CR,
+ L3"
+
+{"value":"7560c2ecadb90feaabc1129ccb15ab7c",
+"label":"(J2 only) Hall Seat K17 (HK17) [Inactive] (1)  @ Hall"
+
+{"value":"825aba138a43695cfccc05f240209e21",
+"label":"(J2 only) Rm 3-28 (Slot 1) (00328(1)) [Inactive] (1)  @ CR"
+
+{"value":"6712569864e1a83ea774f6ac4d600513",
+"label":"(J1 only) Rm 3-47 (00347-J1) [Inactive] (25)  @ CR"
+
+{"value":"56953ecfccb43a738163c38852198fbc",
+"label":"(J2 only) Rm 3-39 (Slot 6) (00339(6)) [Inactive] (1)  @ CR"
+
+{"value":"a52c097d62037c5d0d53ae80d4aaa965",
+"label":"(J2 only) Hall Seat O16 (HO16) [Inactive] (1)  @ Hall"
+
+{"value":"bc33b8d4b5f9e8f87e65a821a5ea7852",
+"label":"(J2 only) Rm 3-48 (Slot 4) (00348(4)) [Inactive] (1)  @ CR"
+
+{"value":"9080ec8d8084a01a360ed87a2ef08641",
+"label":"(J2 only) Rm 3-28 (Slot 6) (00328(6)) [Inactive] (1)  @ CR"
+
+{"value":"27781cf5b9323aee2e9fcefea22c0a92",
+"label":"(J1 only) Rm 3-50 (00350-J1) [Inactive] (25)  @ CR"
+
+{"value":"5d59e28faa7148e118df695947af6820",
+"label":"(J2 only) Hall Seat N15 (HN15) [Inactive] (1)  @ Hall"
+
+{"value":"e4c0ba5f7f7984371efe7c92c2a71c40",
+"label":"(J2 only) Hall Seat I7 (HI7) [Inactive] (1)  @ Hall"
+
+{"value":"cd5ac056b7c283508f754aa85d5d38ed",
+"label":"(J2 only) Hall Seat E17 (HE17) [Inactive] (1)  @ Hall"
+
+{"value":"2ea2a499397d2c209868ee9dbb9665bb",
+"label":"(J2 only) Hall Seat C1 (HC1) [Inactive] (1)  @ Hall"
+
+{"value":"abcf3931b0634a3fdc01abbf381a9a78",
+"label":"(J2 only) Hall Seat G5 (HG5) [Inactive] (1)  @ Hall"
+
+{"value":"a75b259cb7ed04129c7ac6010747bd79",
+"label":"(J2 only) Hall Seat I18 (HI18) [Inactive] (1)  @ Hall"
+
+{"value":"8120e9ba7ee8e15010faaba9290f90b1",
+"label":"(J2 only) Hall Seat J10 (HJ10) [Inactive] (1)  @ Hall"
+
+{"value":"c052e8d7bc7414267571d8c3ae3fab9c",
+"label":"(J1 only) Rm 4-44 (00444-J1) [Inactive] (25)  @ CR"
+
+{"value":"bd80e190bddb04c53005c4759bb7061f",
+"label":"(J1 only) Rm 3-37 (00337-J1) [Inactive] (25)  @ CR"
+
+{"value":"a17271379d2b2c6b2ec80e1b92d22dc8",
+"label":"(J2 only) Hall Seat B8 (HB8) [Inactive] (1)  @ Hall"
+
+{"value":"d590c431bddaa7d4eb0227e94750d874",
+"label":"(J2 only) Rm 3-37 (Slot 6) (00337(6)) [Inactive] (1)  @ CR"
+
+{"value":"419027069f2d437dc546f34da4cb9685",
+"label":"(J2 only) Hall Seat J14 (HJ14) [Inactive] (1)  @ Hall"
+
+{"value":"cd0f0008d2ac4c29259ce425d00f2b83",
+"label":"(J2 only) Hall Seat J1 (HJ1) [Inactive] (1)  @ Hall"
+
+{"value":"6616adc16010a3ba6e46cff72478ebc7",
+"label":"(J2 only) Hall Seat J12 (HJ12) [Inactive] (1)  @ Hall"
+
+{"value":"fc08c6a54a8a71ef17cf2bec6181c210",
+"label":"(J2 only) Hall Seat B6 (HB6) [Inactive] (1)  @ Hall"
+
+{"value":"2aa2a4f36ac6b76d4a239556253e3c2f",
+"label":"(J2 only) Rm 3-49 (Slot 4) (00349(4)) [Inactive] (1)  @ CR"
+
+{"value":"d3030952e02f040a5e0f1f58f25ddc81",
+"label":"(J1 only) Rm 3-49 (00349-J1) [Inactive] (25)  @ CR"
+
+{"value":"3aa1903595410ce7b15f9ca9d059a021",
+"label":"(J2 only) Rm 3-29 (Slot 2) (00329(2)) [Inactive] (1)  @ CR"
+
+{"value":"d98339373cd1a26ac6a425e6e8e50b52",
+"label":"(J2 only) Hall Seat F14 (HF14) [Inactive] (1)  @ Hall"
+
+{"value":"ec328ee8aa8d8858c33c205c737566b6",
+"label":"(J2 only) Hall Seat B17 (HB17) [Inactive] (1)  @ Hall"
+
+{"value":"196df8b2fbb61aad3bdf2b8a08925ed6",
+"label":"(J2 only) Rm 3-49 (Slot 1) (00349(1)) [Inactive] (1)  @ CR"
+
+{"value":"409dfc95aa63f5ebb89d4fb94a2efff9",
+"label":"(J2 only) Hall Seat I3 (HI3) [Inactive] (1)  @ Hall"
+
+{"value":"0c64144b99d799101736998381d7b481",
+"label":"(J2 only) Rm 3-39 (Slot 4) (00339(4)) [Inactive] (1)  @ CR"
+
+{"value":"d1c532ebe1403c1921d73d436cc7e85e",
+"label":"(J2 only) Hall Seat C3 (HC3) [Inactive] (1)  @ Hall"
+
+{"value":"8b42503df84c56f844d733a18856e10e",
+"label":"(J2 only) Hall Seat G18 (HG18) [Inactive] (1)  @ Hall"
+
+{"value":"8ffc8665878e42a714fc250e5b1c00ab",
+"label":"(J2 only) Hall Seat C9 (HC9) [Inactive] (1)  @ Hall"
+
+{"value":"4dc242a55e6248fc4de4967f50732a60",
+"label":"(J1 only) Rm 4-54 (00454-J1) [Inactive] (25)  @ CR"
+
+{"value":"3c90c2a06f4554f1a6bce8eff3ebc5fe",
+"label":"(J2 only) Hall Seat I1 (HI1) [Inactive] (1)  @ Hall"
+
+{"value":"9ef12eee8f50cb81f633f6687ea2727e",
+"label":"(J2 only) Hall Seat E6 (HE6) [Inactive] (1)  @ Hall"
+
+{"value":"d5a91efce6a4dad8c96d63aea5caad05",
+"label":"Rm 3-47 (00347) [Inactive] (25)  @ CR,
+ L3"
+
+{"value":"a0ba921b28ca612de3a76608c2822c2f",
+"label":"(J2 only) Hall Seat D5 (HD5) [Inactive] (1)  @ Hall"
+
+{"value":"fdd1db877ac12e6768986a3e3afc78e9",
+"label":"(J2 only) Hall Seat H17 (HH17) [Inactive] (1)  @ Hall"
+
+{"value":"9911777bd1c40cc05ae80c66c87f01ad",
+"label":"(J2 only) Hall Seat K13 (HK13) [Inactive] (1)  @ Hall"
+
+{"value":"9da3a458f21733fc302867368263befa",
+"label":"(J2 only) Hall Seat O12 (HO12) [Inactive] (1)  @ Hall"
+
+{"value":"35d5e65c3adead892ea072e89c115afa",
+"label":"(J2 only) Hall Seat M18 (HM18) [Inactive] (1)  @ Hall"
+
+{"value":"cc24f516fd33728401cb31823dec41ce",
+"label":"(J1 only) Rm 4-31 (00431-J1) [Inactive] (25)  @ CR"
+
+{"value":"63f007c0a7adf8cd7980925ed95cea62",
+"label":"(J1 only) Rm 3-48 (00348-J1) [Inactive] (25)  @ CR"
+
+{"value":"7fefc1578edc6c018b02f3c0b6c52967",
+"label":"(J2 only) Rm 3-47 (Slot 6) (00347(6)) [Inactive] (1)  @ CR"
+
+{"value":"71cbba2d862dc8dc0cbb0e402a14e46a",
+"label":"(J2 only) Hall Seat A16 (HA16) [Inactive] (1)  @ Hall"
+
+{"value":"fe6c2538564e13f78f0f2f4416f5e6de",
+"label":"(J2 only) Rm 3-48 (Slot 2) (00348(2)) [Inactive] (1)  @ CR"
+
+{"value":"d2c28952928823e733788ba06967b937",
+"label":"(J1 only) Rm 4-59 (00459-J1) [Inactive] (25)  @ CR"
+
+{"value":"09e2ba0cb6778c0a03f2b0f610731fff",
+"label":"(J2 only) Rm 3-48 (Slot 6) (00348(6)) [Inactive] (1)  @ CR"
+
+{"value":"16facc064e25b29ff6a14802ae96e967",
+"label":"(J2 only) Hall Seat M3 (HM3) [Inactive] (1)  @ Hall"
+
+{"value":"689d091fe405374b3463ddc5b518b2bd",
+"label":"Tennis Wall (TC 03) [Inactive] (2)  @ Sports,
+ L1"
+
+{"value":"69737c06ee87aed558c3cc9033f0327b",
+"label":"(J2 only) Hall Seat H11 (HH11) [Inactive] (1)  @ Hall"
+
+{"value":"4b4a52e1bb7ae5437ea446d025d4bae4",
+"label":"(J2 only) Hall Seat D14 (HD14) [Inactive] (1)  @ Hall"
+
+{"value":"a4f0b864999e18ae0961f23e098258a9",
+"label":"(J2 only) Hall Seat G1 (HG1) [Inactive] (1)  @ Hall"
+
+{"value":"b4398b620fe621ad279e31d34ecbebc6",
+"label":"(J2 only) Rm 3-48 (Slot 3) (00348(3)) [Inactive] (1)  @ CR"
+
+{"value":"fe57d6b835d0d57cb9aa491644c218df",
+"label":"(J2 only) Rm 3-47 (Slot 1) (00347(1)) [Inactive] (1)  @ CR"
+
+{"value":"e71b2cc282df4cab78052e4ff8044ca3",
+"label":"(J2 only) Rm 3-37 (Slot 3) (00337(3)) [Inactive] (1)  @ CR"
+
+{"value":"a003e8bfb500c69472d7ec533d87d1cc",
+"label":"(J2 only) Hall Seat J5 (HJ5) [Inactive] (1)  @ Hall"
+
+{"value":"7cc97ab3cf60781826b1ff28de38b1c0",
+"label":"(J2 only) Hall Seat A10 (HA10) [Inactive] (1)  @ Hall"
+
+{"value":"686c388f53d5eed1991bfb9c348c9640",
+"label":"(J2 only) Hall Seat E8 (HE8) [Inactive] (1)  @ Hall"
+
+{"value":"bd4c8405f23371e37e2f2573253ab89b",
+"label":"(J2 only) Rm 3-28 (Slot 3) (00328(3)) [Inactive] (1)  @ CR"
+
+{"value":"9be7a64de2c88533ed564609d59296e7",
+"label":"(J2 only) Hall Seat D3 (HD3) [Inactive] (1)  @ Hall"
+
+{"value":"15ee8b485526486f5c3865a6a070e92b",
+"label":"(J2 only) Hall Seat A5 (HA5) [Inactive] (1)  @ Hall"
+
+{"value":"105d8343c94943cb91afe2c734292ced",
+"label":"Gym (G 01) (6)  @ Sports,
+ L3"
+
+{"value":"d90919fc4ea18b297ef79a2d7924b5cd",
+"label":"(J2 only) Hall Seat B2 (HB2) [Inactive] (1)  @ Hall"
+
+{"value":"1a587354c7fd1b2f307f16ed78d28c8d",
+"label":"(J2 only) Hall Seat F10 (HF10) [Inactive] (1)  @ Hall"
+
+{"value":"6eb380d9e508551417d9af2a81400c5d",
+"label":"Rm 3-49 (00349) [Inactive] (25)  @ CR,
+ L3"
+
+{"value":"e17371bb4ca8358d8e965995c03962cc",
+"label":"(J2 only) Rm 3-29 (Slot 5) (00329(5)) [Inactive] (1)  @ CR"
+
+{"value":"9766016a8c018e8697dc4a829297b954",
+"label":"Rm 3-29 (00329) [Inactive] (25)  @ CR,
+ L3"
+
+{"value":"5e3bc5a61f8df1d93661147e56cf187c",
+"label":"(J2 only) Hall Seat K15 (HK15) [Inactive] (1)  @ Hall"
+
+{"value":"e045cf5c02da1c707a3116e248503e46",
+"label":"(J2 only) Hall Seat M9 (HM9) [Inactive] (1)  @ Hall"
+
+{"value":"8584c868db94f2a1781844f92b851694",
+"label":"Field 3 (FB 03) [Inactive] (5)  @ Sports,
+ L1"
+
+{"value":"ef64e3f3587b92a57ad0e8ac347aa1d4",
+"label":"Rm 3-27 (00327) [Inactive] (25)  @ CR,
+ L3"
+
+{"value":"242f898f1262c6a932351e48ad576e3e",
+"label":"(J2 only) Rm 3-50 (Slot 4) (00350(4)) [Inactive] (1)  @ CR"
+
+{"value":"4ffeaf4d616b00c1fdcbacbc7d7e2ed6",
+"label":"(J2 only) Rm 3-49 (Slot 6) (00349(6)) [Inactive] (1)  @ CR"
+
+{"value":"58c5b9c63c90d2c7e6eca9feb09a52c0",
+"label":"(J2 only) Hall Seat I9 (HI9) [Inactive] (1)  @ Hall"
+
+{"value":"c52fe027e7b1f93529e2c58c4df4fc78",
+"label":"(J1 only) Rm 4-62 (00462-J1) [Inactive] (25)  @ CR"
+
+{"value":"eaadf63ddc77b60d3b8542b9c2de496b",
+"label":"(J2 only) Rm 3-27 (Slot 2) (00327(2)) [Inactive] (1)  @ CR"
+
+{"value":"451f30176f985f9797fa173df8c3bd87",
+"label":"(J2 only) Hall Seat O10 (HO10) [Inactive] (1)  @ Hall"
+
+{"value":"4fae57898a2525b04a1b55641df54ccd",
+"label":"(J2 only) Rm 3-27 (Slot 6) (00327(6)) [Inactive] (1)  @ CR"
+
+{"value":"7368cadb770cec90e1918cca4a2cc315",
+"label":"(J2 only) Hall Seat H15 (HH15) [Inactive] (1)  @ Hall"
+
+{"value":"641018ed1e8fbc1c3ee35476872e1412",
+"label":"(J2 only) Rm 3-50 (Slot 6) (00350(6)) [Inactive] (1)  @ CR"
+
+{"value":"a94a5e4669b4bc5fd884b593c1e0908c",
+"label":"(J2 only) Rm 3-39 (Slot 2) (00339(2)) [Inactive] (1)  @ CR"
+
+{"value":"4d94ac068724a910fc19c58766ffbe3e",
+"label":"(J2 only) Rm 3-38 (Slot 1) (00338(1)) [Inactive] (1)  @ CR"
+
+{"value":"cd1e30eac92d2f33398ed8effaf136ac",
+"label":"(J2 only) Hall Seat O18 (HO18) [Inactive] (1)  @ Hall"
+
+{"value":"a36054a68ce765a77b467fa643efe606",
+"label":"(J2 only) Hall Seat F3 (HF3) [Inactive] (1)  @ Hall"
+
+{"value":"db73bbe6a446a26a64e8b27320bf7f0c",
+"label":"(J2 only) Hall Seat F16 (HF16) [Inactive] (1)  @ Hall"
+
+{"value":"946294c90f59e98e3fb238f0c605277d",
+"label":"(J2 only) Hall Seat C18 (HC18) [Inactive] (1)  @ Hall"
+
+{"value":"7ff78af0a02aade1fc40fc31cf9a5a40",
+"label":"(J2 only) Hall Seat C14 (HC14) [Inactive] (1)  @ Hall"
+
+{"value":"73a26656b2b26e1e89b0c5494a0a41d4",
+"label":"(J2 only) Rm 3-48 (Slot 5) (00348(5)) [Inactive] (1)  @ CR"
+
+{"value":"6fa695faa2a1b66a065dd6d9d877705f",
+"label":"Basketball Half Court 2 (BB 02) [Inactive] (5)  @ Sports,
+ L1"
+
+{"value":"ae1a69830fe5e2c1faafac9a5275e122",
+"label":"(J2 only) Hall Seat G10 (HG10) [Inactive] (1)  @ Hall"
+
+{"value":"6d132a97a220f6c97718b27a1b3902a4",
+"label":"(J2 only) Hall Seat B15 (HB15) [Inactive] (1)  @ Hall"
+
+{"value":"e447a82b088deb9701e202b7b47eed1a",
+"label":"(J2 only) Rm 3-27 (Slot 5) (00327(5)) [Inactive] (1)  @ CR"
+
+{"value":"3687dbba6535679faa7e4b77a2a92a9d",
+"label":"(J2 only) Hall Seat C10 (HC10) [Inactive] (1)  @ Hall"
+
+{"value":"f00c48ac138cab772ee9cae8cc5d95da",
+"label":"Field 1 (FB 01) [Inactive] (5)  @ Sports,
+ L1"
+
+{"value":"39574ce8a5216b86d25fce341c3b78ba",
+"label":"(J1 only) Rm 4-53 (00453-J1) [Inactive] (25)  @ CR"
+
+{"value":"9ed80ce824b0f28ba434ee32f3d488d5",
+"label":"(J2 only) Rm 3-49 (Slot 2) (00349(2)) [Inactive] (1)  @ CR"
+
+{"value":"aca36029761a8fa6bb9bd7385639c1ad",
+"label":"(J2 only) Rm 3-50 (Slot 3) (00350(3)) [Inactive] (1)  @ CR"
+
+{"value":"d34524c79c7d5aa134e432ef51470d7e",
+"label":"(J2 only) Hall Seat M10 (HM10) [Inactive] (1)  @ Hall"
+
+{"value":"2f95e03f463e4c7afa0c1ad3b150d615",
+"label":"(J2 only) Hall Seat D18 (HD18) [Inactive] (1)  @ Hall"
+
+{"value":"92bef6cc92ca6099df3cf36a1a09df3d",
+"label":"(J1 only) Rm 4-32 (00432-J1) [Inactive] (25)  @ CR"
+
+{"value":"df50d1e1532175ae4db8f83379b783df",
+"label":"(J2 only) Hall Seat I16 (HI16) [Inactive] (1)  @ Hall"
+
+{"value":"60ae2b8f495f695521fb571e91bad733",
+"label":"(J2 only) Hall Seat M16 (HM16) [Inactive] (1)  @ Hall"
+
+{"value":"ddd650dd80121db2a17fc3491a9d77ed",
+"label":"(J2 only) Rm 3-29 (Slot 3) (00329(3)) [Inactive] (1)  @ CR"
+
+{"value":"c332c35786c155babb3fd5c899b6eff9",
+"label":"(J2 only) Hall Seat C16 (HC16) [Inactive] (1)  @ Hall"
+
+{"value":"95af9cfa110d551aa4ab241675431d30",
+"label":"(J2 only) Hall Seat H2 (HH2) [Inactive] (1)  @ Hall"
+
+{"value":"91fd04c879f5c7d99b9f24d7f9589259",
+"label":"(J2 only) Hall Seat E11 (HE11) [Inactive] (1)  @ Hall"
+
+{"value":"e88c59ccab89e6db624121f33a49b0f8",
+"label":"(J2 only) Rm 3-38 (Slot 5) (00338(5)) [Inactive] (1)  @ CR"
+
+{"value":"8a4d1ce735dd06cd72e15d79f8603580",
+"label":"(J1 only) Rm 3-38 (00338-J1) [Inactive] (25)  @ CR"
+
+{"value":"b4368fe818c2c879550723d52640c513",
+"label":"(J1 only) Rm 3-29 (00329-J1) [Inactive] (25)  @ CR"
+
+{"value":"ba3dffa33c4ec0c4443373258157b789",
+"label":"(J2 only) Hall Seat N6 (HN6) [Inactive] (1)  @ Hall"
+
+{"value":"bd463c96ae134252912dc8adacf045c0",
+"label":"Tennis Court 1 (TC 01) [Inactive] (5)  @ Sports,
+ L1"
+
+{"value":"4604a7922f7e237378723762367eef12",
+"label":"(J2 only) Hall Seat H13 (HH13) [Inactive] (1)  @ Hall"
+
+{"value":"17182ccf5b384b404e95101f33e29119",
+"label":"(J2 only) Rm 3-39 (Slot 5) (00339(5)) [Inactive] (1)  @ CR"
+
+{"value":"77fd1210b188060860048b39785857c5",
+"label":"(J2 only) Hall Seat L9 (HL9) [Inactive] (1)  @ Hall"
+
+{"value":"1cf7bcea9fe61d499e4e231b3fae57fd",
+"label":"(J2 only) Hall Seat A7 (HA7) [Inactive] (1)  @ Hall"
+
+{"value":"6ed284a2cf5b7fcdfb14f087b541e29e",
+"label":"Outdoor Floorball Court 1 (FLB 01) [Inactive] (5)  @ Sports,
+ L1"
+
+{"value":"e09eb4a604409ee7c8147e121f3974b4",
+"label":"(J2 only) Rm 3-47 (Slot 4) (00347(4)) [Inactive] (1)  @ CR"
+
+{"value":"b21bb4888bbdd377ca59ada342d59182",
+"label":"(J2 only) Hall Seat N2 (HN2) [Inactive] (1)  @ Hall"
+
+{"value":"5986363bf688086896eda40db4b4a615",
+"label":"(J2 only) Rm 3-28 (Slot 4) (00328(4)) [Inactive] (1)  @ CR"
+
+{"value":"225b6de97836fd4be3abe39abede4911",
+"label":"(J2 only) Hall Seat C7 (HC7) [Inactive] (1)  @ Hall"
+
+{"value":"b84dd4051e86a6d3be71654b09201844",
+"label":"(J2 only) Hall Seat C5 (HC5) [Inactive] (1)  @ Hall"
+
+{"value":"9adae318e281c396962f4bc9cbcb1913",
+"label":"(J2 only) Hall Seat H4 (HH4) [Inactive] (1)  @ Hall"
+
+{"value":"97b7cdb4f437be1288a426a11008456f",
+"label":"(J2 only) Rm 3-38 (Slot 3) (00338(3)) [Inactive] (1)  @ CR"
+
+{"value":"385e094bcb5ad3885857068ca8bf6174",
+"label":"(J1 only) Rm 4-60 (00460-J1) [Inactive] (25)  @ CR"
+
+{"value":"eadaf12f7e2ad949f5ff3e8fdc6834fd",
+"label":"(J2 only) Hall Seat E13 (HE13) [Inactive] (1)  @ Hall"
+
+{"value":"8a2494ae3b6ffeb7692cc233260e7fe1",
+"label":"(J2 only) Hall Seat D16 (HD16) [Inactive] (1)  @ Hall"
+
+{"value":"c89084dfa8ddbaf2cb8df327339456ca",
+"label":"(J2 only) Hall Seat N13 (HN13) [Inactive] (1)  @ Hall"
+
+{"value":"9261d84f972f98ee6fbee3935eb7af2a",
+"label":"(J2 only) Hall Seat N8 (HN8) [Inactive] (1)  @ Hall"
+
+{"value":"5c6fa4e3d5b36bc52d41ad3bb03b3f3d",
+"label":"(J2 only) Hall Seat M7 (HM7) [Inactive] (1)  @ Hall"
+
+{"value":"5f7f24ad7eb74eb97f339aabdfb77a26",
+"label":"(J2 only) Rm 3-39 (Slot 3) (00339(3)) [Inactive] (1)  @ CR"
+
+{"value":"de5a712a17fac187725a217c02e9fbb8",
+"label":"(J1 only) Rm 4-42 (00442-J1) [Inactive] (25)  @ CR"
+
+{"value":"7a72a162262edb57fc2f2900bb3563ab",
+"label":"Rm 3-39 (00339) [Inactive] (25)  @ CR,
+ L3"
+
+{"value":"eb0ce175c2f667d091e00a765a9b03ac",
+"label":"Rm 3-46 (00346) [Inactive] (25)  @ CR,
+ L3"
+
+{"value":"c983ffd0cf027440649faa2cdbbcd191",
+"label":"(J2 only) Hall Seat I14 (HI14) [Inactive] (1)  @ Hall"
+
+{"value":"70156147a8f3a8e2b7d37268bc8d9d64",
+"label":"Tennis Court 2 (TC 02) [Inactive] (5)  @ Sports,
+ L1"
+
+{"value":"5e452f254b569b659842ac6e08cd4bff",
+"label":"Rm 3-48 (00348) [Inactive] (25)  @ CR,
+ L3"
+
+{"value":"fa3dab21b778e2fbe5f81b8530fe103c",
+"label":"(J1 only) Rm 4-56 (00456-J1) [Inactive] (25)  @ CR"
+
+{"value":"d13b89f4f7833b00dd655953f7dd8fac",
+"label":"(J2 only) Rm 3-38 (Slot 4) (00338(4)) [Inactive] (1)  @ CR"
+
+{"value":"4d740b1d5c3519709c76933b25e61087",
+"label":"(J2 only) Hall Seat L3 (HL3) [Inactive] (1)  @ Hall"
+
+{"value":"566f3f5da3bb121fae100d313223f54c",
+"label":"(J2 only) Hall Seat N4 (HN4) [Inactive] (1)  @ Hall"
+
+{"value":"e573cb7ef657e71efc991661a541ff01",
+"label":"(J2 only) Hall Seat M14 (HM14) [Inactive] (1)  @ Hall"
+
+{"value":"92c7d903110726c1563831e377efe776",
+"label":"(J2 only) Hall Seat K11 (HK11) [Inactive] (1)  @ Hall"
+
+{"value":"e13c93e5c48cfff6491c5e6fe907dfee",
+"label":"(J2 only) Rm 3-27 (Slot 4) (00327(4)) [Inactive] (1)  @ CR"
+
+{"value":"bbe48631cf0d5a8677c3baa6c14b1b01",
+"label":"Field 4 (FB 04) [Inactive] (5)  @ Sports,
+ L1"
+
+{"value":"48cbab4a04bf2084fb55d2aa813811b6",
+"label":"(J2 only) Rm 3-29 (Slot 1) (00329(1)) [Inactive] (1)  @ CR"
+
+{"value":"806ba114a3f08f985c5c3cd3efdfd618",
+"label":"(J2 only) Hall Seat M12 (HM12) [Inactive] (1)  @ Hall"
+
+{"value":"aacd6c34f5780a52577d365a8038d85b",
+"label":"(J2 only) Hall Seat L5 (HL5) [Inactive] (1)  @ Hall"
+
+{"value":"2c6d95d52656bc5eaf39da7f8896d182",
+"label":"Field 2 (FB 02) [Inactive] (5)  @ Sports,
+ L1"
+
+{"value":"f00dfe7436aa6f4aff53daef33f773a2",
+"label":"(J2 only) Rm 3-50 (Slot 2) (00350(2)) [Inactive] (1)  @ CR"
+
+{"value":"bae4e032b7871f65a3f98bb188c5955a",
+"label":"(J2 only) Hall Seat H6 (HH6) [Inactive] (1)  @ Hall"
+
+{"value":"728cfefded843d5e863adcb112be1b42",
+"label":"(J2 only) Rm 3-47 (Slot 3) (00347(3)) [Inactive] (1)  @ CR"
+
+{"value":"9c2ce3595aa99874db0a89fddc7338a2",
+"label":"(J2 only) Rm 3-48 (Slot 1) (00348(1)) [Inactive] (1)  @ CR"
+
+{"value":"6867508f1047b6369eea3a7098a8c30b",
+"label":"(J2 only) Hall Seat G16 (HG16) [Inactive] (1)  @ Hall"
+
+{"value":"bc29dd33778109a77c2d8faf00143994",
+"label":"(J2 only) Rm 3-49 (Slot 3) (00349(3)) [Inactive] (1)  @ CR"
+
+{"value":"eab2c5e77d5a3c5f9ca6cee945f2e666",
+"label":"(J2 only) Hall Seat L10 (HL10) [Inactive] (1)  @ Hall"
+
+{"value":"e5bef02adbacbd9ffdf4949c0fa2ae55",
+"label":"(J2 only) Hall Seat J3 (HJ3) [Inactive] (1)  @ Hall"
+
+{"value":"065a086caeec5780701fe7f593d913ef",
+"label":"(J2 only) Rm 3-38 (Slot 6) (00338(6)) [Inactive] (1)  @ CR"
+
+{"value":"58a6fda3abff6de31d1df275b654bd1a",
+"label":"(J2 only) Hall Seat F12 (HF12) [Inactive] (1)  @ Hall"
+
+{"value":"d9aad7e24c7667f0611f5aeeb9a01d44",
+"label":"(J2 only) Hall Seat K8 (HK8) [Inactive] (1)  @ Hall"
+
+{"value":"6d79a5046c3217f7441522124121573d",
+"label":"(J2 only) Hall Seat A1 (HA1) [Inactive] (1)  @ Hall"
+
+{"value":"7014c7c30c44f0fdc39ff167f98988ab",
+"label":"(J2 only) Rm 3-28 (Slot 5) (00328(5)) [Inactive] (1)  @ CR"
+
+{"value":"080a428dca9aea89f262e292b79feb03",
+"label":"(J2 only) Hall Seat B4 (HB4) [Inactive] (1)  @ Hall"
+
+{"value":"3c5603bbde90c8571d2853d55b2ab753",
+"label":"(J2 only) Hall Seat O3 (HO3) [Inactive] (1)  @ Hall"
+
+{"value":"8e4a4e0c5e7a3137784cbb7e27f2358d",
+"label":"(J2 only) Rm 3-28 (Slot 2) (00328(2)) [Inactive] (1)  @ CR"
+
+{"value":"5a5b55569458dbed5186f9743737b394",
+"label":"(J2 only) Hall Seat F18 (HF18) [Inactive] (1)  @ Hall"
+
+{"value":"95e73e04e6ffce78976a18f7f39e3fe4",
+"label":"(J2 only) Rm 3-27 (Slot 1) (00327(1)) [Inactive] (1)  @ CR"
+
+{"value":"134835f214cc6e1ec306b6c89f5b7497",
+"label":"(J2 only) Hall Seat D1 (HD1) [Inactive] (1)  @ Hall"
+
+{"value":"d38220223895e7758edb8c5910fb3e22",
+"label":"(J2 only) Hall Seat E2 (HE2) [Inactive] (1)  @ Hall"
+
+{"value":"88b782389d9b2576d7128be6fc5c2e3e",
+"label":"(J2 only) Hall Seat D7 (HD7) [Inactive] (1)  @ Hall"
+
+{"value":"473220a62b7d18173714aac9f170e9af",
+"label":"(J2 only) Hall Seat K4 (HK4) [Inactive] (1)  @ Hall"
+
+{"value":"5b84d41bd03774ca234e3f0d0a8cf5ec",
+"label":"(J2 only) Hall Seat G3 (HG3) [Inactive] (1)  @ Hall"
+
+{"value":"3e673b70a8a4757437db5628e8557587",
+"label":"(J2 only) Hall Seat H8 (HH8) [Inactive] (1)  @ Hall"
+
+{"value":"18ef1d9563f45404db67ff0c49cb150a",
+"label":"(J1 only) Rm 4-58 (00458-J1) [Inactive] (25)  @ CR"
+
+{"value":"97ae508e2c9cfaa2753f265bbfd1bc99",
+"label":"(J1 only) Rm 4-51 (00451-J1) [Inactive] (25)  @ CR"
+
+{"value":"832033d17f051ccf279592824e2f81b2",
+"label":"(J2 only) Hall Seat O1 (HO1) [Inactive] (1)  @ Hall"
+
+{"value":"38a525afa4131de02955dcfb50645b0f",
+"label":"(J2 only) Hall Seat L18 (HL18) [Inactive] (1)  @ Hall"
+
+{"value":"89d7a3960864ca67249eb16e4a68029d",
+"label":"(J2 only) Hall Seat C12 (HC12) [Inactive] (1)  @ Hall"
+
+{"value":"a8edbbf2eb92eb86a78ff3c20ba2a7c0",
+"label":"(J2 only) Hall Seat M1 (HM1) [Inactive] (1)  @ Hall"
+
+{"value":"7834bf6976273d680dde2379449340bd",
+"label":"(J2 only) Rm 3-50 (Slot 5) (00350(5)) [Inactive] (1)  @ CR"
+
+{"value":"a83b07dd06bc9156408baf00e57ba65d",
+"label":"(J2 only) Hall Seat O9 (HO9) [Inactive] (1)  @ Hall"
+
+{"value":"1ec888bee5346ac3c34c8f16c74b59fc",
+"label":"(J2 only) Hall Seat O7 (HO7) [Inactive] (1)  @ Hall"
+
+{"value":"500d56fbd44d15161e2d9268634e4778",
+"label":"(J1 only) Rm 4-52 (00452-J1) [Inactive] (25)  @ CR"
+
+{"value":"e585635815da2a3da1ab30311ccc6c6e",
+"label":"(J2 only) Hall Seat J7 (HJ7) [Inactive] (1)  @ Hall"
+
+{"value":"681eb997bfb360a22a4bd0c0ceef0f79",
+"label":"(J2 only) Hall Seat I12 (HI12) [Inactive] (1)  @ Hall"
+
+{"value":"4585439e660e9e57584d373097dcd94c",
+"label":"(J1 only) Rm 4-55 (00455-J1) [Inactive] (25)  @ CR"
+
+{"value":"9dbbdff25bb4d058c04bff6e63773e4f",
+"label":"Basketball Half Court 1 (BB 01) [Inactive] (5)  @ Sports,
+ L1"
+
+{"value":"6f9a18dd79e6c9c218dcd1c83af7be47",
+"label":"(J2 only) Hall Seat F9 (HF9) [Inactive] (1)  @ Hall"
+
+{"value":"c109493d1f6e6916b064255aec012e6e",
+"label":"(J2 only) Hall Seat E4 (HE4) [Inactive] (1)  @ Hall"
+
+{"value":"ad6599da8cb87aedbba6a4cdaa0f8f3d",
+"label":"(J2 only) Hall Seat O5 (HO5) [Inactive] (1)  @ Hall"
+
+{"value":"d4e4fc6d87b03df44181d210445ae51f",
+"label":"(J1 only) Rm 3-28 (00328-J1) [Inactive] (25)  @ CR"
+
+{"value":"1c29feed0fa288094f40a4bd274e2d92",
+"label":"(J2 only) Hall Seat D10 (HD10) [Inactive] (1)  @ Hall"
+
+{"value":"0317b56991c82a83cdab68a4882df3ed",
+"label":"(J2 only) Hall Seat A12 (HA12) [Inactive] (1)  @ Hall"}]}).constant({id:'Scholarship',
+
+values:[]}).constant({id:'FinancialScheme',
+values:[]}).setup();
