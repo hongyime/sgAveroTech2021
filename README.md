@@ -26,14 +26,6 @@ Hardware
 ## Frequently asked questions:
 ### What schools are affected?
 All the schools which use Avero as their school portal. As seen on their website: EJC, NYJC, NYGHS, TJC, VJC, ASRJC, YIJC, JPJC, TMJC.\
-<img align="left" width="500" height="400" src="https://www.avero-tech.com/assets/img/portal_nygh.png">
-<img align="left" width="500" height="400" src="https://www.avero-tech.com/assets/img/portal_nyjc.png">
-<img align="left" width="500" height="400" src="https://www.avero-tech.com/assets/img/portal_tmjc.png">
-<img align="left" width="500" height="400" src="https://www.avero-tech.com/assets/img/portal_yijc.png">
-<img align="left" width="500" height="400" src="https://www.avero-tech.com/assets/img/portal_jpjc.png">
-<img align="left" width="500" height="400" src="https://www.avero-tech.com/assets/img/portal_tjc.png">
-<img align="left" width="500" height="400" src="https://www.avero-tech.com/assets/img/portal_ejc.png">
-<img align="left" width="500" height="400" src="https://www.avero-tech.com/assets/img/portal_vjc.png">
 
 ### How to access the photos?
 Basically, each profile image is linked to the student's unique MD5 id (32 characters), but we don't know how each id is created. Photos from the same shcool uses the same base url, like all other files stored on Avero's database. To get the phoot, you change the get request parameters in the url.\
@@ -48,3 +40,12 @@ Yes, as of August 2021, using the link to access to profile images are no longer
 ### Is this a breach of data privacy?
 On every school portal, under 'My Profile' > 'Particulars', Avero states "Your profile photo is visible to you, your parents and all staffs, but not other students, parents, alumni, or the public." However, it is clearly seen that the link to the profile images were never private, unti very recently. The links could also be accessed without logging in to any of the portals. Although these links are not scrapped by google, thus not easily found, it is still, in my opinion, a break of data privacy, as anyone who has the will and processing power can easily generate the required links. Also, students are promised that their profile images will be only "visible to you, your parents and all staffs, but not other students, parents, alumni, or the public". The very existence of this repository is to debunk that.
 ![image](https://user-images.githubusercontent.com/66017805/130156069-37a10a74-3833-4413-9d69-7a16726323fe.png)
+
+<img align="left" width="400" height="300" src="https://www.avero-tech.com/assets/img/portal_nygh.png">
+<img align="right" width="400" height="300" src="https://www.avero-tech.com/assets/img/portal_nyjc.png">
+<img align="left" width="400" height="300" src="https://www.avero-tech.com/assets/img/portal_tmjc.png">
+<img align="right" width="400" height="300" src="https://www.avero-tech.com/assets/img/portal_yijc.png">
+<img align="left" width="400" height="300" src="https://www.avero-tech.com/assets/img/portal_jpjc.png">
+<img align="right" width="400" height="300" src="https://www.avero-tech.com/assets/img/portal_tjc.png">
+<img align="left" width="400" height="300" src="https://www.avero-tech.com/assets/img/portal_ejc.png">
+<img align="right" width="400" height="300" src="https://www.avero-tech.com/assets/img/portal_vjc.png">
