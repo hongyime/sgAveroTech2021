@@ -26,14 +26,14 @@ Hardware
 ## Frequently asked questions:
 ### What schools are affected?
 All the schools which use Avero as their school portal. As seen on their website: EJC, NYJC, NYGHS, TJC, VJC, ASRJC, YIJC, JPJC, TMJC.\
-<img align="left" width="300" height="200" src="https://www.avero-tech.com/assets/img/portal_nygh.png">
-<img align="right" width="300" height="200" src="https://www.avero-tech.com/assets/img/portal_nyjc.png">
-<img align="left" width="300" height="200" src="https://www.avero-tech.com/assets/img/portal_tmjc.png">
-<img align="right" width="300" height="200" src="https://www.avero-tech.com/assets/img/portal_yijc.png">
-<img align="left" width="300" height="200" src="https://www.avero-tech.com/assets/img/portal_jpjc.png">
-<img align="right" width="300" height="200" src="https://www.avero-tech.com/assets/img/portal_tjc.png">
-<img align="left" width="300" height="200" src="https://www.avero-tech.com/assets/img/portal_ejc.png">
-<img align="right" width="300" height="200" src="https://www.avero-tech.com/assets/img/portal_vjc.png">
+<img align="left" width="500" height="400" src="https://www.avero-tech.com/assets/img/portal_nygh.png">
+<img align="left" width="500" height="400" src="https://www.avero-tech.com/assets/img/portal_nyjc.png">
+<img align="left" width="500" height="400" src="https://www.avero-tech.com/assets/img/portal_tmjc.png">
+<img align="left" width="500" height="400" src="https://www.avero-tech.com/assets/img/portal_yijc.png">
+<img align="left" width="500" height="400" src="https://www.avero-tech.com/assets/img/portal_jpjc.png">
+<img align="left" width="500" height="400" src="https://www.avero-tech.com/assets/img/portal_tjc.png">
+<img align="left" width="500" height="400" src="https://www.avero-tech.com/assets/img/portal_ejc.png">
+<img align="left" width="500" height="400" src="https://www.avero-tech.com/assets/img/portal_vjc.png">
 
 ### How to access the photos?
 Basically, each profile image is linked to the student's unique MD5 id (32 characters), but we don't know how each id is created. Photos from the same shcool uses the same base url, like all other files stored on Avero's database. To get the phoot, you change the get request parameters in the url.\
