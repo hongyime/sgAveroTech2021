@@ -42,10 +42,10 @@ On every school portal, under 'My Profile' > 'Particulars', Avero states "Your p
 ![image](https://user-images.githubusercontent.com/66017805/130156069-37a10a74-3833-4413-9d69-7a16726323fe.png)
 
 <img align="left" width="400" height="300" src="https://www.avero-tech.com/assets/img/portal_nygh.png">
-<img align="right" width="400" height="300" src="https://www.avero-tech.com/assets/img/portal_nyjc.png">
+<img align="left" width="400" height="300" src="https://www.avero-tech.com/assets/img/portal_nyjc.png">
 <img align="left" width="400" height="300" src="https://www.avero-tech.com/assets/img/portal_tmjc.png">
-<img align="right" width="400" height="300" src="https://www.avero-tech.com/assets/img/portal_yijc.png">
+<img align="left" width="400" height="300" src="https://www.avero-tech.com/assets/img/portal_yijc.png">
 <img align="left" width="400" height="300" src="https://www.avero-tech.com/assets/img/portal_jpjc.png">
-<img align="right" width="400" height="300" src="https://www.avero-tech.com/assets/img/portal_tjc.png">
+<img align="left" width="400" height="300" src="https://www.avero-tech.com/assets/img/portal_tjc.png">
 <img align="left" width="400" height="300" src="https://www.avero-tech.com/assets/img/portal_ejc.png">
-<img align="right" width="400" height="300" src="https://www.avero-tech.com/assets/img/portal_vjc.png">
+<img align="left" width="400" height="300" src="https://www.avero-tech.com/assets/img/portal_vjc.png">
