@@ -19,13 +19,13 @@ Hardware
 ## Instructions:
 1. Download repository as a zip folder
 2. Unzip the folder
-3. Run [getimages.py](https://github.com/bryanseah234/sgAveroTech2021/main/getimages.py) for randomised 
+3. Run [getimages.py](https://github.com/bryanseah234/sgAveroTech2021/main/getimages.py) to use randomised MD5 ids to get images
 4. Run [md5generate.py](https://github.com/bryanseah234/sgAveroTech2021/md5generate.py) to generate yr own MD5 to match those in [samplemd5s.txt](https://github.com/bryanseah234/sgAveroTech2021/samplemd5s.txt)
 5. Poke around and look at the other stuff uploaded
 
 ## Frequently asked questions:
 ### What schools are affected?
-All the schools which use Avero as their school portal. As seen on their website: EJC, NYJC, NYGHS, TJC, VJC, ASRJC, YIJC, JPJC, TMJC.\
+All the schools which use Avero as their school portal. As seen on their website: EJC, NYJC, NYGHS, TJC, VJC, ASRJC, YIJC, JPJC, TMJC.
 
 ### How to access the photos?
 Basically, each profile image is linked to the student's unique MD5 id (32 characters), but we don't know how each id is created. Photos from the same shcool uses the same base url, like all other files stored on Avero's database. To get the phoot, you change the get request parameters in the url.\
