@@ -1,4 +1,4 @@
-# Singapore Avero 2021
+# Singapore Avero Tech 2021
 code to scrap profile photos of students from school portals (working till June 2021)
 
 <p align="center">
