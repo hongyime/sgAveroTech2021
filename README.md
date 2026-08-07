@@ -19,8 +19,8 @@ Hardware
 ## Instructions:
 1. Download repository as a zip folder
 2. Unzip the folder
-3. Run [getimages.py](https://github.com/bryanseah234/sgAveroTech2021/main/getimages.py) to use randomised MD5 ids to get images
-4. Run [md5generate.py](https://github.com/bryanseah234/sgAveroTech2021/md5generate.py) to generate yr own MD5 to match those in [samplemd5s.txt](https://github.com/bryanseah234/sgAveroTech2021/samplemd5s.txt)
+3. Run [getimages.py](https://github.com/hongyime/sgAveroTech2021/main/getimages.py) to use randomised MD5 ids to get images
+4. Run [md5generate.py](https://github.com/hongyime/sgAveroTech2021/md5generate.py) to generate yr own MD5 to match those in [samplemd5s.txt](https://github.com/hongyime/sgAveroTech2021/samplemd5s.txt)
 5. Poke around and look at the other stuff uploaded
 
 ## Frequently asked questions:
