@@ -49,3 +49,7 @@ On every school portal, under 'My Profile' > 'Particulars', Avero states "Your p
 <img align="left" width="400" height="300" src="https://www.avero-tech.com/assets/img/portal_tjc.png">
 <img align="left" width="400" height="300" src="https://www.avero-tech.com/assets/img/portal_ejc.png">
 <img align="left" width="400" height="300" src="https://www.avero-tech.com/assets/img/portal_vjc.png">
+
+## License
+
+Apache-2.0. See [LICENSE](LICENSE) and [NOTICE](NOTICE).
