@@ -1,4 +1,7 @@
 # Singapore Avero Tech 2021
+
+Live demo: https://hongyime.github.io/sgAveroTech2021/
+
 code to scrap profile photos of students from school portals (working till June 2021)
 
 <p align="center">
