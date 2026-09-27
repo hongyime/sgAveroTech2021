@@ -7,3 +7,5 @@
 - 1 open PR: #14 dependabot labeler bump (actions/labeler 6→7).
 - No hardcoded secrets. Previously audited (AUDIT_LOG.md, AUDIT.md, security_audit.md).
 - Clean working tree on main. .agents/ created this session.
+
+- 2026-09-27: Remove the optional personal security contact and preserve private reporting guidance through a reviewed maintenance pull request.
